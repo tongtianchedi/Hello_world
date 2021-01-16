@@ -1,2 +1,2 @@
 # Hello_world
-Just a responsitory
+I love Github
